@@ -1,4 +1,4 @@
-# Tensorflow-with-Logic-Gate-Prediction-
+# Tensorflow-with-Logic-Gate-Prediction
 
 <img src="https://live.staticflickr.com/65535/54383829861_9f2f5827eb.jpg" alt="thumbnail" class="center">
 
